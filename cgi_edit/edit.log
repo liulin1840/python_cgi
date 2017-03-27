@@ -1,0 +1,3 @@
+filename ==>a.txt
+BASE_DIR ==>/var/www/cgi-bin/cgi_edit/data
+open BASE_DIR,filename ==>/var/www/cgi-bin/cgi_edit/data/a.txt
